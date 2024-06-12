@@ -1,0 +1,8 @@
+.storegoogle-play-styleblack {
+  width: 135px;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  height: 40px;
+  mix-blend-mode: normal;
+}

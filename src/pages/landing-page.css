@@ -1,0 +1,250 @@
+.that {
+  color: var(--style1);
+}
+.always {
+  color: var(--style);
+}
+.menu-that-always-container {
+  position: absolute;
+  top: 169.813rem;
+  left: 24.625rem;
+  font-size: var(--font-size-29xl);
+  text-transform: capitalize;
+  display: inline-block;
+  text-align: center;
+  width: 40.813rem;
+  color: var(--color-crimson-100);
+}
+.ramen {
+  position: relative;
+  text-transform: capitalize;
+}
+.ramen-wrapper {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-crimson-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-xl);
+  color: var(--color-white);
+}
+.breakfast {
+  position: relative;
+  text-transform: capitalize;
+  opacity: 0.8;
+}
+.breakfast-wrapper,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.breakfast-wrapper {
+  border-radius: var(--br-81xl);
+  border: 2px solid var(--style1);
+  padding: var(--padding-3xs) var(--padding-xl);
+  opacity: 0.6;
+}
+.frame-parent {
+  position: absolute;
+  top: 181.313rem;
+  left: 13.188rem;
+  gap: 1.875rem;
+}
+.frame,
+.frame1 {
+  position: absolute;
+  top: 190.813rem;
+  left: 4.688rem;
+  width: 80.875rem;
+  height: 32.25rem;
+  overflow: hidden;
+}
+.frame1 {
+  top: 227.188rem;
+}
+.frame-child {
+  position: absolute;
+  top: 4.013rem;
+  left: 0;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0), #fdc55e);
+  width: 90rem;
+  height: 39.5rem;
+  opacity: 0.1;
+}
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 33.513rem;
+  left: 80.219rem;
+  width: 9.813rem;
+  height: 13.344rem;
+}
+.frame-inner {
+  top: 18.575rem;
+  left: 67.188rem;
+  width: 74.688rem;
+  height: 41.106rem;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+.ellipse-div {
+  position: absolute;
+  top: 43.031rem;
+  left: 87.1rem;
+  border-radius: 50%;
+  border: 23px solid var(--color-crimson-200);
+  box-sizing: border-box;
+  width: 35.625rem;
+  height: 35.625rem;
+  transform: rotate(179.5deg);
+  transform-origin: 0 0;
+}
+.group-icon,
+.unsplashjwu9fplw7fi-icon {
+  position: absolute;
+  left: 53.75rem;
+  width: 29.75rem;
+}
+.unsplashjwu9fplw7fi-icon {
+  top: 10.513rem;
+  border-radius: 50%;
+  height: 29.75rem;
+  object-fit: cover;
+}
+.group-icon {
+  top: 0;
+  height: 40.244rem;
+  object-fit: contain;
+}
+.footer-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.service-us {
+  position: absolute;
+  top: 46.07%;
+  left: 0;
+}
+.about-us2,
+.company,
+.contact {
+  position: absolute;
+  top: 65.97%;
+  left: 0;
+}
+.about-us2,
+.company {
+  top: 85.86%;
+}
+.about-us2 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  color: var(--color-crimson-100);
+}
+.about-us {
+  position: absolute;
+  height: 44.11%;
+  width: 7.85%;
+  top: 19.86%;
+  right: 52.64%;
+  bottom: 36.03%;
+  left: 39.51%;
+}
+.company1,
+.partnership {
+  position: absolute;
+  top: 26.18%;
+  left: 0;
+}
+.company1 {
+  height: 44.11%;
+  width: 8.68%;
+  top: 19.86%;
+  right: 38.06%;
+  bottom: 36.03%;
+  left: 53.26%;
+}
+.copyright-2022 {
+  position: absolute;
+  top: 86.84%;
+  left: 43.61%;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.footer {
+  position: absolute;
+  height: 33.69%;
+  width: 63.44%;
+  top: 66.31%;
+  right: 36.56%;
+  bottom: 0;
+  left: 0;
+}
+.more-easy {
+  color: var(--color-crimson-100);
+}
+.all-you-need,
+.its-now-more-container {
+  position: absolute;
+  left: 4.375rem;
+  display: inline-block;
+}
+.its-now-more-container {
+  top: 9.513rem;
+  font-size: var(--font-size-29xl);
+  width: 40.188rem;
+  color: var(--color-black);
+}
+.all-you-need {
+  top: 20.825rem;
+  white-space: pre-wrap;
+  width: 34.375rem;
+  opacity: 0.8;
+}
+.a3ac62578a9f8-icon,
+.seekpng-icon {
+  position: absolute;
+  top: 0.013rem;
+  left: 74.25rem;
+  width: 20.906rem;
+  height: 20.781rem;
+  object-fit: contain;
+}
+.seekpng-icon {
+  top: 37.95rem;
+  left: 68.25rem;
+  width: 16.938rem;
+  height: 11.188rem;
+  object-fit: cover;
+}
+.frame2 {
+  position: absolute;
+  top: 268.175rem;
+  left: 0;
+  width: 141.875rem;
+  height: 80.325rem;
+  overflow: hidden;
+}
+.landing-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 348.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--style1);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,51 @@
+.rosemary-icon {
+  position: absolute;
+  width: 11.19%;
+  top: 44.563rem;
+  right: 0;
+  left: 88.81%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 8.313rem;
+}
+.special {
+  color: var(--color-crimson-100);
+}
+.today-special-offers-container {
+  position: absolute;
+  top: 0;
+  left: 33.919rem;
+  font-size: var(--font-size-29xl);
+  text-transform: capitalize;
+  text-align: left;
+}
+.lorem-ipsum-is1 {
+  position: absolute;
+  top: 5.563rem;
+  left: 23.544rem;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 53.5rem;
+  opacity: 0.8;
+}
+.group-icon1 {
+  position: absolute;
+  top: 4.381rem;
+  left: 0;
+  width: 13.238rem;
+  height: 11.719rem;
+  object-fit: contain;
+  opacity: 0.3;
+}
+.frame4 {
+  position: absolute;
+  top: 58.375rem;
+  left: -3.294rem;
+  width: 97.169rem;
+  height: 52.875rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--style1);
+  font-family: var(--font-poppins);
+}

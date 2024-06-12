@@ -1,0 +1,151 @@
+.decore-icon1 {
+  position: absolute;
+  top: 12.5rem;
+  left: 36.188rem;
+  width: 6rem;
+  height: 15.75rem;
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-crimson-100);
+  width: 7.125rem;
+  height: 2.813rem;
+}
+.about-us3 {
+  position: absolute;
+  top: 0.625rem;
+  left: 1.25rem;
+  text-transform: capitalize;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 35.25rem;
+  left: 47.688rem;
+  width: 7.125rem;
+  height: 2.813rem;
+  color: var(--color-white);
+}
+.more {
+  color: var(--color-crimson-100);
+}
+.multiple {
+  color: var(--style);
+}
+.this-is-a,
+.we-are-more-container {
+  position: absolute;
+  left: 47.688rem;
+  display: inline-block;
+}
+.we-are-more-container {
+  top: 8.938rem;
+  font-size: var(--font-size-29xl);
+  line-height: 129.9%;
+  width: 28.25rem;
+  color: var(--color-black);
+}
+.this-is-a {
+  top: 18rem;
+  width: 43.125rem;
+  opacity: 0.8;
+}
+.frame-child10 {
+  position: absolute;
+  top: 1.319rem;
+  left: 36.188rem;
+  width: 25.344rem;
+  height: 7.431rem;
+}
+.online-order,
+.pre-reservation,
+.super-chef {
+  position: absolute;
+  top: 24.375rem;
+  left: 49.938rem;
+  font-weight: 500;
+}
+.pre-reservation,
+.super-chef {
+  top: 27.813rem;
+}
+.super-chef {
+  top: 31.625rem;
+}
+.clean-kitchen,
+.oragonized-dineout-place,
+.service {
+  position: absolute;
+  top: 31.625rem;
+  left: 66.125rem;
+  font-weight: 500;
+}
+.oragonized-dineout-place,
+.service {
+  top: 27.813rem;
+}
+.service {
+  top: 24.375rem;
+}
+.image-15-icon,
+.image-17-icon,
+.image-18-icon,
+.image-19-icon,
+.image-20-icon,
+.image-21-icon {
+  position: absolute;
+  top: 24.313rem;
+  left: 47.688rem;
+  width: 1.625rem;
+  height: 1.625rem;
+  object-fit: cover;
+}
+.image-17-icon,
+.image-18-icon,
+.image-19-icon,
+.image-20-icon,
+.image-21-icon {
+  left: 63.875rem;
+}
+.image-18-icon,
+.image-19-icon,
+.image-20-icon,
+.image-21-icon {
+  top: 27.75rem;
+  left: 47.688rem;
+}
+.image-19-icon,
+.image-20-icon,
+.image-21-icon {
+  top: 31.563rem;
+}
+.image-19-icon,
+.image-21-icon {
+  left: 63.875rem;
+}
+.image-19-icon {
+  top: 27.75rem;
+}
+.frame-child11,
+.frame5 {
+  position: absolute;
+  height: 38.688rem;
+}
+.frame-child11 {
+  top: 0;
+  left: 0;
+  width: 43.306rem;
+  object-fit: cover;
+}
+.frame5 {
+  top: 118.5rem;
+  left: -7.75rem;
+  width: 90.813rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--style1);
+  font-family: var(--font-poppins);
+}

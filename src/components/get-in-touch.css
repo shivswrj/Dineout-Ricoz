@@ -1,0 +1,86 @@
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  width: 100%;
+  top: 35.9%;
+  left: 0;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+}
+.get-in-touch1 {
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  color: var(--color-crimson-100);
+}
+.button-child,
+.get-in-touch1,
+.subscribe {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.button-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-20xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.subscribe {
+  font-weight: 500;
+}
+.text-icon {
+  position: absolute;
+  height: 34%;
+  width: 57.63%;
+  top: 32%;
+  right: 18.64%;
+  bottom: 34%;
+  left: 23.73%;
+}
+.button,
+.get-in-touch-child {
+  position: absolute;
+  height: 25.64%;
+  top: 74.36%;
+  bottom: 0;
+}
+.button {
+  width: 31.13%;
+  right: 10.82%;
+  left: 58.05%;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.get-in-touch-child {
+  width: 54.09%;
+  right: 45.91%;
+  left: 0;
+  border-radius: var(--br-19xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.1;
+}
+.email {
+  position: absolute;
+  top: 83.08%;
+  left: 6.33%;
+  font-family: var(--font-inter);
+  opacity: 0.51;
+}
+.get-in-touch {
+  position: absolute;
+  height: 45.03%;
+  width: 26.32%;
+  top: 19.86%;
+  right: 6.53%;
+  bottom: 35.1%;
+  left: 67.15%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--style1);
+  font-family: var(--font-poppins);
+}
